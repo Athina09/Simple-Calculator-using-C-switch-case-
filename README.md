@@ -22,20 +22,9 @@ Prerequisites
 
     A C compiler (e.g., GCC)
 
-Compilation and Execution
-
-    Clone the Repository:
-
-git clone https://github.com/yourusername/simple-calculator-c.git
-cd simple-calculator-c
-
 Compile the Program:
 
 gcc calculator.c -o calculator
-
-Run the Executable:
-
-    ./calculator
 
 💡 Usage Example
 
